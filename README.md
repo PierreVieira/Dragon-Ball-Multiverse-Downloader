@@ -23,8 +23,6 @@ pip install beautifulsoup4
 To start downloading the manga, clone this repository and execute the script:
 
 ```sh
-git clone https://github.com/your-repo/dragonball-multiverse-downloader.git
-cd dragonball-multiverse-downloader
 python3 downloader.py
 ```
 
